@@ -1,2 +1,1 @@
-# tugas9_intemediateAPI
-Logout and Add to cart
+# Tugas9_intermediateAPI
